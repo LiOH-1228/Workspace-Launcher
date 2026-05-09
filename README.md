@@ -2,7 +2,8 @@
 
 一个简洁的 Windows 桌面工作区启动器，用来管理多套常用软件和网页方案，并一键打开完整工作环境。
 
-<img src="assets/WorkspaceLauncher.logo.png" alt="Workspace Launcher icon" width="128">
+<img src="assets/WorkspaceLauncher.logo.png" alt="Workspace Launcher icon" width="128"> 
+<img src="examples/Example.png" alt="App example" width="600">
 
 ## 功能概览
 
