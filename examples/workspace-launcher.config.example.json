@@ -1,0 +1,22 @@
+﻿{
+  "currentProfile": "默认",
+  "profiles": [
+    {
+      "name": "默认",
+      "items": [
+        
+      ]
+    }
+  ],
+  "settings": {
+    "closeAfterLaunch": false,
+    "minimizeAfterLaunch": false,
+    "startWithWindows": false,
+    "language": "zh"
+  },
+  "items": [
+    
+  ],
+  "urls": null,
+  "apps": null
+}
