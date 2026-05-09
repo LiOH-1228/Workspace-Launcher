@@ -190,7 +190,7 @@ examples\workspace-launcher.config.example.json
 程序会把识别到的软件/网页小图标缓存到运行目录的 `icons` 文件夹。  
 这样下次打开会更快，也不会每次都重新访问网页或重新提取软件图标。
 
-`icons` 是本机运行缓存，不建议上传到 GitHub。
+`icons` 是本机运行缓存。
 
 ## 常见问题
 
